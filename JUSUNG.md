@@ -7,6 +7,4 @@
 * Local에서 Commit
 * Remote로 Push
 
-Hi juseongson
-
 
