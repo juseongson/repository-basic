@@ -7,4 +7,4 @@
 * Local에서 Commit
 * Remote로 Push
 
-# 2019732061 손주성
+# 20001003 sonjuseong  
